@@ -1,3 +1,11 @@
+![MasterHead](https://images.unsplash.com/photo-1530804458434-67fe207c3a71?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3VjY2Vzc2Z1bHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 )
+ <img align="right"   width="400" src=" https://cdn.dribbble.com/users/264642...​">
+
+ 
+
+
+ 
+
 <h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
 <h3 align="center">Programmer | Learner | Content Creator | Student of LPU(Lovely Professional University) Phagwara, Punjab pursuing Computer Science Engineering.</h3>
 
@@ -28,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakash-lpu-9961&show_icons=true&locale=en" alt="aakash-lpu-9961" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-lpu-9961&" alt="aakash-lpu-9961" /></p>
-
